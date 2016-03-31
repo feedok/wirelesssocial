@@ -1,0 +1,7 @@
+<Files "*.ini">
+deny from all
+</Files>
+
+<Files "*.json">
+deny from all
+</Files>

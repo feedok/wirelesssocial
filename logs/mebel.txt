@@ -1,0 +1,55 @@
+27/10/2015 - 15:17	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+27/10/2015 - 15:18	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+27/10/2015 - 15:23	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+27/10/2015 - 15:23	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+27/10/2015 - 16:36	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+27/10/2015 - 16:36	twitter	http://twitter.com/ittradeorg	it-trade	
+27/10/2015 - 16:37	twitter	http://twitter.com/ittradeorg	it-trade	
+27/10/2015 - 16:39	vkontakte	https://vk.com/s.sergeevich	Станислав	Тарасов
+27/10/2015 - 16:42	twitter	http://twitter.com/ittradeorg	it-trade	
+27/10/2015 - 18:22	Ok	http://ok.ru/profile/585636434192	it	trade
+28/10/2015 - 12:31	twitter	http://twitter.com/ittradeorg	it-trade	
+28/10/2015 - 12:32	twitter	http://twitter.com/ittradeorg	it-trade	
+09/11/2015 - 13:12	twitter	http://twitter.com/ittradeorg	it-trade	
+09/11/2015 - 13:18	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+09/11/2015 - 13:19	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+09/11/2015 - 13:21	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+09/11/2015 - 13:22	Ok	http://ok.ru/profile/585636434192	it	trade
+09/11/2015 - 13:24	Ok	http://ok.ru/profile/585636434192	it	trade
+09/11/2015 - 13:33	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 13:49	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 14:40	vkontakte	link	name	lastname
+09/11/2015 - 14:41	vkontakte	link	name	lastname
+09/11/2015 - 14:41	vkontakte	link	name	lastname
+09/11/2015 - 14:42	vkontakte	link	name	lastname
+09/11/2015 - 14:42	vkontakte	link	name	lastname
+09/11/2015 - 14:42	vkontakte	link	name	lastname
+09/11/2015 - 14:43	vkontakte	link	name	lastname
+09/11/2015 - 14:43	vkontakte	link	name	lastname
+09/11/2015 - 14:44	vkontakte	link	name	lastname
+09/11/2015 - 14:45	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 14:51	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 14:52	vkontakte	asd	asd	asd
+09/11/2015 - 14:52	vkontakte	asd	asd	asd
+09/11/2015 - 14:53	vkontakte	https://vk.com/s.sergeevich	vkUserName	Tarasov
+09/11/2015 - 14:53	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 14:54	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 14:54	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 14:56	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 14:56	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 14:57	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 15:46	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 15:49	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+09/11/2015 - 15:52	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+10/11/2015 - 16:55		http://twitter.com/ittradeorg	it-trade	
+10/11/2015 - 16:55		http://twitter.com/ittradeorg	it-trade	
+10/11/2015 - 16:56		http://twitter.com/ittradeorg	it-trade	
+10/11/2015 - 16:56	facebook	https://www.facebook.com/app_scoped_user_id/154971951508380/	Айти	Трейд
+10/11/2015 - 17:37		http://twitter.com/ittradeorg	it-trade	
+10/11/2015 - 17:39	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+10/11/2015 - 18:14	Ok	http://ok.ru/profile/585636434192	it	trade
+10/11/2015 - 18:14	Ok	http://ok.ru/profile/585636434192	it	trade
+10/11/2015 - 18:16	Ok	http://ok.ru/profile/585636434192	it	trade
+13/11/2015 - 13:46	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+13/11/2015 - 13:56	vkontakte	https://vk.com/s.sergeevich	Stanislav	Tarasov
+13/11/2015 - 18:15	Ok	http://ok.ru/profile/585636434192	it	trade
